@@ -1,11 +1,10 @@
-### 
-
-##
+<ul>
+  <li>👋 Hi, I’m @Rafael-Lima02</li>
+  <li>👀 I’m interested in learn new technologies.</li>
+  <li>🌱 I’m currently learning web system development.</li>
+  <li>📫 How to reach me: rafaellima2k02@gmail.com</li>
+</ul>
 <div align="center">
-  <p>👋 Hi, I’m @Rafael-Lima02</p>
-  <p>👀 I’m interested in learn new technologies.</p>
-  <p>🌱 I’m currently learning web system development.</p>
-  <p>📫 How to reach me: rafaellima2k02@gmail.com</p>
   <a href="https://github.com/Rafael-Lima02">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Lima02&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Lima02&layout=compact&langs_count=7&theme=buefy"/>
