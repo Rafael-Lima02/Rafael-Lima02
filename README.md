@@ -1,4 +1,8 @@
-### Olá! Eu sou o Rafael Lima
+### 
+👋 Hi, I’m @Rafael-Lima02
+👀 I’m interested in learn new technologies.
+🌱 I’m currently learning web system development.
+📫 How to reach me: rafaellima2k02@gmail.com
 ##
 <div align="center">
   <a href="https://github.com/Rafael-Lima02">
